@@ -49,10 +49,17 @@ In attempting to purchase two AMBU resuscitation bags during the COID19 pandemic
 - Providing effective means for monitoring of conditions and pressures without electronic sensing.
 
 
+
 ## Documentation
+#### [Ventilator_Details.pdf](https://github.com/kaiem/COVID-19_Ventilator_DIY_Prototype/blob/master/license.txt)
 
 
 ## Build Files
+[BOM](https://github.com/kaiem/COVID-19_Ventilator_DIY_Prototype/blob/master/BOM)
+
+[STL](https://github.com/kaiem/COVID-19_Ventilator_DIY_Prototype/blob/master/BOM)
+
+[GCODE](https://github.com/kaiem/COVID-19_Ventilator_DIY_Prototype/blob/master/BOM)
 
 
 ## Testing
