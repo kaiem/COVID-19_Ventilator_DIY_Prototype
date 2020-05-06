@@ -49,12 +49,28 @@ In attempting to purchase two AMBU resuscitation bags during the COID19 pandemic
 - Providing effective means for monitoring of conditions and pressures without electronic sensing.
 
 
+## Documentation
+
+
+## Build Files
+
+
 ## Testing
 Functional testing only has been performed. No testing whatsoever has been performed on human subjects.
 
 
 ## Conclusion
 It was found that it is possible to create a rudimentary ventilator from readily available household items and 3D printed plastic components; however it is a much less trivial exercise than first expected. The challenges in not having access to high precision molded rubber-like flexible membrane parts for valving can be overcome albeit with an increase in complexity including a higher component count, and therefore reduced expected reliability. While the idea of using a weight on a bladder bag powered by an unregulated vacuum source in a separate air circuit was first thought and expected to give rise to an inherently safe system, in practice and after some FMEA analysis at least one potentially extreme adverse and hazardous condition was identified under component failure scenarios which could result in vacuum being transferred to the patient. Anyone embarking on utilizing this concept would be well advised to mitigate this outcome. Although the system looks simple, it is expected that a high level of familiarity, understanding and knowledge of the intricacies of this apparatus would be required in order to provide effective support to a patient, and as such may be deemed an un-user-friendly device. Additionally any non-ducted vacuum sources are typically particularly noisy, and would be best positioned in a separate room or enclosure.
+
+
+## Further work
+It is envisaged that another iteration of development would mitigate a critical safety issue identified, and improve useablity.
+There is significant cost, time and effort required some fund raising is required.
+
+
+## Sponsor
+A further iteration needs your support. Please donate.
+
 
 ## References
 Test Lung - https://medium.com/@RobertLeeRead/how-to-make-your-own-accurate-test-lungs-for-testing-emergency-ventilators-2d68fe5ac460
