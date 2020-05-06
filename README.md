@@ -97,7 +97,7 @@ https://panvent.blogspot.com/2007/02/pandemic-ventilator-contingency.html
 
 ## Licensing
 This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International License.
-(CC BY-SA 4.0)
+- [(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 ## Disclaimer
