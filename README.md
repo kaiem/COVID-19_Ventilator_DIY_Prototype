@@ -1,1 +1,1 @@
-# COVID_Ventilator_DIY_Prototype
+# COVID-19_Ventilator_DIY_Prototype
