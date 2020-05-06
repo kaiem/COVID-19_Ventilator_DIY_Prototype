@@ -70,7 +70,7 @@ It was found that it is possible to create a rudimentary ventilator from readily
 
 ## Further work
 It is envisaged that another iteration of development would mitigate a critical safety issue identified, and improve useablity.
-There is significant cost, time and effort required some fund raising is required.
+There is significant cost, time and effort involved, as such some fund rasing is needed.
 
 
 ## Sponsor
