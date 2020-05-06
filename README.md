@@ -14,8 +14,6 @@ A COVID19 initiative, to create a prototype respirator/ventilator from basic hou
 To establish a baseline for assessing the feasibility and suitability of a rudimentary low cost respirator/ventilator concept, as a possible aid in alleviating critical shortages of such equipment as being experienced in the medical industry resulting from the COVID19 pandemic.
 Some of the discovered techniques, and ideas may provide benefit to unrelated applications.
 
-![Image of Ventilator](/images/Ventilator_CompleteView.png?raw=true "Optional Title")
-
 ## Inspiration
 In attempting to purchase two AMBU resuscitation bags during the COID19 pandemic, money was in due course refunded due to shortage of supply. Many open source ventilator projects attempting to fill the shortage of ventilators during the pandemic are based on mechanical automation by actuation of the basic AMBU resuscitation bag. Without supply of AMBU resuscitations bags, is there an acceptable DIY alternative?
 
@@ -50,3 +48,43 @@ In attempting to purchase two AMBU resuscitation bags during the COID19 pandemic
 - Providing sufficient usability without the use of intricate electronics and software.
 - Providing effective means for monitoring of conditions and pressures without electronic sensing.
 
+
+## Testing
+Functional testing only has been performed. No testing whatsoever has been performed on human subjects.
+
+
+## Conclusion
+It was found that it is possible to create a rudimentary ventilator from readily available household items and 3D printed plastic components; however it is a much less trivial exercise than first expected. The challenges in not having access to high precision molded rubber-like flexible membrane parts for valving can be overcome albeit with an increase in complexity including a higher component count, and therefore reduced expected reliability. While the idea of using a weight on a bladder bag powered by an unregulated vacuum source in a separate air circuit was first thought and expected to give rise to an inherently safe system, in practice and after some FMEA analysis at least one potentially extreme adverse and hazardous condition was identified under component failure scenarios which could result in vacuum being transferred to the patient. Anyone embarking on utilizing this concept would be well advised to mitigate this outcome. Although the system looks simple, it is expected that a high level of familiarity, understanding and knowledge of the intricacies of this apparatus would be required in order to provide effective support to a patient, and as such may be deemed an un-user-friendly device. Additionally any non-ducted vacuum sources are typically particularly noisy, and would be best positioned in a separate room or enclosure.
+
+## References
+Test Lung - https://medium.com/@RobertLeeRead/how-to-make-your-own-accurate-test-lungs-for-testing-emergency-ventilators-2d68fe5ac460
+
+PEEP - https://derangedphysiology.com/main/cicm-primary-exam/required-reading/respiratory-system/Chapter%20508/methods-generating-positive
+
+https://www.helpfulengineering.org/
+
+https://techcrunch.com/2020/03/19/open-source-project-spins-up-3d-printed-ventilator-validation-prototype-in-just-one-week/
+
+## Acknowledgements
+
+https://www.instructables.com/id/The-Pandemic-Ventilator/
+
+https://panvent.blogspot.com/2020/03/updated-bellows-style-pandemic.html
+
+https://panvent.blogspot.com/2007/02/pandemic-ventilator-contingency.html
+
+
+## Licensing
+This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International License.
+(CC BY-SA 4.0)
+
+
+## Disclaimer
+Presented here is a starting point for a proof of concept model, from which ideas or concepts disclosed are free for development and investigative purposes only.
+No claims are made that any of the objectives or requirements as listed are desirable or if indeed they result in a solution which is suitable for human use, or if in fact the resulting prototype meets any objectives or requirements.
+Anyone using this information agrees to waive any and all liability.
+
+
+## Warning
+A ventilator can be a hazardous device and requires appropriately medically trained and certified personnel.
+This is an unproven, untested prototype with much more work required to make this device useable or acceptable for use.
