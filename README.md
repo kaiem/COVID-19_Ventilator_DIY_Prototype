@@ -69,13 +69,17 @@ It was found that it is possible to create a rudimentary ventilator from readily
 
 
 ## Further work
-It is envisaged that another iteration of development would mitigate a critical safety issue identified, and improve useablity. please refer to the relevant section in the [ventilator detailed documentation](https://github.com/kaiem/COVID-19_Ventilator_DIY_Prototype/blob/master/Doc).
+It is envisaged that another iteration of development would mitigate a critical safety issue identified, improve useablity as well as add an important mode for assisted breathing. Please refer to the relevant section in the [ventilator detailed documentation](https://github.com/kaiem/COVID-19_Ventilator_DIY_Prototype/blob/master/Doc).
 
-There is significant cost, time and effort involved, as such some fund rasing is needed.
+Due to significant cost, time and effort involved, some fund raising is needed.
 
 
-## Sponsor
-A further iteration needs your support. Please donate.
+## Communication
+Please provide suggestions and feedback by raising an issue or pull request.
+
+
+## Sponsor or Contribute
+A further iteration needs your support. Please donate or contribute. Your support will be much appreciated.
 
 
 ## References
