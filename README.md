@@ -14,7 +14,7 @@ A COVID19 initiative, to create a prototype respirator/ventilator from basic hou
 To establish a baseline for assessing the feasibility and suitability of a rudimentary low cost respirator/ventilator concept, as a possible aid in alleviating critical shortages of such equipment as being experienced in the medical industry resulting from the COVID19 pandemic.
 Some of the discovered techniques, and ideas may provide benefit to unrelated applications.
 
-## Inspiration
+## Motivation
 In attempting to purchase two AMBU resuscitation bags during the COID19 pandemic, money was in due course refunded due to shortage of supply. Many open source ventilator projects attempting to fill the shortage of ventilators during the pandemic are based on mechanical automation by actuation of the basic AMBU resuscitation bag. Without supply of AMBU resuscitations bags, is there an acceptable DIY alternative?
 
 ## Objectives
