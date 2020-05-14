@@ -18,7 +18,9 @@ To establish a baseline for assessing the feasibility and suitability of a rudim
 Some of the discovered techniques, and ideas may provide benefit to unrelated applications.
 
 ## Motivation
-At the rise of the pandemic, the terrible prospect of severe triage denying access to hospital and hospital ventilation equipment was felt. As a last resort option, attempts to purchase AMBU resuscitation bags failed with money being refunded due to shortage of supply. Many open source ventilator projects attempting to fill the shortage of ventilators during the pandemic are based on mechanical automation by actuation of the basic AMBU resuscitation bag. Without supply of AMBU resuscitations bags, is there an acceptable or at least a workable DIY home use alternative?
+At the rise of the pandemic, the terrible prospect of severe triage denying access to hospital and ventilation equipment was felt. As a last resort option, attempts to purchase AMBU resuscitation bags failed with money being refunded due to shortage of supply. Invariably, open source projects attempting to fill the shortage of ventilators during the pandemic are based on automating the actuation of the basic AMBU resuscitation bag. 
+
+Without supply of AMBU resuscitations bags, is there an acceptable or at least a workable DIY fallback alternative?
 
 ## Objectives
 - To perform the basic essential function of a medical respirator/ventilator – provide active cyclic aspiration and expiration of breathing air.
